@@ -1,5 +1,5 @@
 <h1 align=center>Hey there, I'm Fabiano </h1>
-<h1 align=center>I'm just a Front End Student who likes to learn new technologies </h1>
+<h1 align=center>I'm just a Front End Student who likes acquiring new skills </h1>
 
 # Technologies
 ## 💻 I'm learning
