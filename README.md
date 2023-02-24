@@ -1,7 +1,7 @@
 <h1 align=center>Hey there, I'm Fabiano </h1>
 <h1 align=center>I'm just a Front End Student who likes to learn new technologies </h1>
 
-# Languages
+# Technologies
 ## 💻 I'm learning
 - HTML5
 - CSS3
